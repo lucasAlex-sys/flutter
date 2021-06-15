@@ -1,6 +1,6 @@
 # devquiz
 
-Aplicativo mobile desenvolvido em flutter desenvolvido na NLW#5.
+Aplicativo mobile desenvolvido em flutter feito na NLW#5.
 
 ## Getting Started
 
